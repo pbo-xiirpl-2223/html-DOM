@@ -4,6 +4,7 @@ Buat suatu halaman HTML dengan menerapkan DOM.
 
 - getElementById()
 - getElementsByTagName()
+- element.innerHTML
 - element.style.property
 - onclick()
 
